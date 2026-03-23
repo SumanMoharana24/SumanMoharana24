@@ -1,5 +1,46 @@
 ## Hi there 👋
-Hey, I’m Suman Moharana — a developer on a focused journey into Web3, smart contracts, and backend systems.<br><br>I’m currently building strong fundamentals in Solidity, blockchain architecture, and decentralized applications, with a goal to become a high-impact Web3 backend developer.<br><br>What drives me is simple:<br>clarity of thinking, consistency in action, and building things that actually work in the real world.<br><br>🧠 What I’m Working On<br><br>📌 Learning Solidity deeply (not just syntax, but patterns & security)<br><br>🔗 Exploring Chainlink oracles & real-world data integration<br><br>🛠️ Building projects around:<br><br>DeFi concepts<br><br>Token standards (ERC20, ERC721, ERC1155)<br><br>Smart contract design patterns<br><br>🔍 Understanding smart contract security & vulnerabilities<br><br>⚙️ Tech Stack<br><br>Languages: Solidity, Python, JavaScript<br><br>Blockchain: Ethereum, Chainlink<br><br>Libraries/Tools: OpenZeppelin, Hardhat, Foundry (learning)<br><br>Other Skills: Data Analysis, Problem Solving, System Thinking<br><br>📈 Current Focus<br><br>I’m not here to rush.<br>I’m here to build skill with depth.<br><br>For the next few months, I’m:<br><br>Writing better contracts<br><br>Contributing to projects<br><br>Preparing for real-world Web3 roles<br><br>🤝 Let’s Connect<br><br>I’m always open to:<br><br>Collaboration on Web3 projects<br><br>Learning opportunities<br><br>Meaningful discussions around tech & growth<br><br>⚡ Philosophy<br><br>“Skill over hype. Consistency over motivation. Execution over ideas.”
+I am a developer focused on building a strong foundation in Web3, smart contracts, and backend systems.
+I specialize in learning Solidity and blockchain architecture, with hands-on experience in building decentralized applications and understanding real-world use cases.
+
+My approach is rooted in depth over hype — focusing on writing secure, scalable, and practical smart contracts rather than just surface-level development.
+
+My current stack includes Solidity, JavaScript, and Python, along with tools like Hardhat, Foundry (learning), and OpenZeppelin. I am also exploring Chainlink oracles to integrate real-world data into smart contracts.
+
+I am particularly interested in DeFi, protocol design, and smart contract security, and I am continuously working on improving my ability to build reliable Web3 systems.
+
+🌍 I'm based in India
+🧠 Currently focused on mastering Solidity & smart contract security
+🛠️ Building projects around DeFi, token standards, and contract design patterns
+🤝 Open to collaboration on Web3 and smart contract projects
+⚙️ Tech Stack
+
+Languages:
+Solidity, JavaScript, Python
+
+Blockchain:
+Ethereum, Chainlink
+
+Tools & Libraries:
+Hardhat, Foundry (learning), OpenZeppelin
+
+Other Skills:
+Data Analysis, Problem Solving, System Thinking
+
+Right now, I’m focused on:
+
+Writing better and more secure smart contracts
+Understanding vulnerabilities and attack patterns
+Building real-world Web3 projects
+Preparing for production-level development
+
+🤝 Let’s Connect
+
+I’m open to:
+
+Collaboration on Web3 projects
+Learning opportunities
+Meaningful discussions around tech, growth, and systems
+
 
 
 ## 🌐 Socials:
