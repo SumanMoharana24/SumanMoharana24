@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+My name is Suman Moharana
+=======================================================================================================================================
+
+Web3 Developer
+------------------------
 I am a developer focused on building a strong foundation in Web3, smart contracts, and backend systems.
 I specialize in learning Solidity and blockchain architecture, with hands-on experience in building decentralized applications and understanding real-world use cases.
 
