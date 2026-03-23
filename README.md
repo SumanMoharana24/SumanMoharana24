@@ -44,7 +44,7 @@ I’m open to:
 * Learning opportunities
 * Meaningful discussions around tech, growth, and systems
 
-*🤝 Let’s Connect
+🤝 Let’s Connect
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/the_black_blizzard9300) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suman-moharana-217765229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DryLeader9692) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anikpramoh9692@gmail.com) 
