@@ -7,7 +7,7 @@ Web3 Developer
 I am a developer focused on building a strong foundation in Web3, smart contracts, and backend systems.
 I specialize in learning Solidity and blockchain architecture, with hands-on experience in building decentralized applications and understanding real-world use cases.
 
-My approach is rooted in depth over hype — focusing on writing secure, scalable, and practical smart contracts rather than just surface-level development.
+My approach is rooted in depth over hype, focusing on writing secure, scalable, and practical smart contracts rather than just surface-level development.
 
 My current stack includes Solidity, JavaScript, and Python, along with tools like Hardhat, Foundry (learning), and OpenZeppelin. I am also exploring Chainlink oracles to integrate real-world data into smart contracts.
 
