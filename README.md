@@ -13,11 +13,11 @@ My current stack includes Solidity, JavaScript, and Python, along with tools lik
 
 I am particularly interested in DeFi, protocol design, and smart contract security, and I am continuously working on improving my ability to build reliable Web3 systems.
 
-🌍 I'm based in India
-🧠 Currently focused on mastering Solidity & smart contract security
-🛠️ Building projects around DeFi, token standards, and contract design patterns
-🤝 Open to collaboration on Web3 and smart contract projects
-⚙️ Tech Stack
+* 🌍 I'm based in India
+* 🧠 Currently focused on mastering Solidity & smart contract security
+* 🛠️ Building projects around DeFi, token standards, and contract design patterns
+* 🤝 Open to collaboration on Web3 and smart contract projects
+* ⚙️ Tech Stack
 
 Languages:
 Solidity, JavaScript, Python
